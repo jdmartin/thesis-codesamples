@@ -2,7 +2,7 @@
 name = "twitter_lda_and_stats"
 version = "0.1.0"
 description = "Every thesis is better with ml."
-authors = ["jdmartin <jonsaccount+githubjd@icloud.com>"]
+authors = ["jdmartin <foo@foo.com>"]
 license = "MIT"
 
 [tool.poetry.dependencies]
