@@ -309,10 +309,6 @@ pandas==1.4.2; python_version >= "3.8" \
     --hash=sha256:d0d4f13e4be7ce89d7057a786023c461dd9370040bdb5efa0a7fe76b556867a0 \
     --hash=sha256:09d8be7dd9e1c4c98224c4dfe8abd60d145d934e9fc1f5f411266308ae683e6a \
     --hash=sha256:92bc1fc585f1463ca827b45535957815b7deb218c549b7c18402c322c7549a12
-pathlib==1.0.1 \
-    --hash=sha256:6940718dfc3eff4258203ad5021090933e5c04707d5ca8cc9e73c94a7894ea9f
-pdfminer==20191125; python_version >= "3.6" \
-    --hash=sha256:9e700bc731300ed5c8936343c1dd4529638184198e54e91dd2b59b64a755dc01
 pillow==9.1.1; python_version >= "3.7" \
     --hash=sha256:42dfefbef90eb67c10c45a73a9bc1599d4dac920f7dfcbf4ec6b80cb620757fe \
     --hash=sha256:ffde4c6fabb52891d81606411cbfaf77756e3b561b566efd270b3ed3791fde4e \
